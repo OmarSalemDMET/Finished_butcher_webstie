@@ -1,0 +1,25 @@
+{
+    "Meat_prod": [
+        "Steak",
+        "Beef Salami",
+        "Sausages",
+        "Chicken Breast",
+        "Duck Meat",
+        "Goat Meat",
+        "Rabbit meat",
+        "Lamb chops",
+        "Turkey Braests",
+        "Shrimp"
+    ],
+    "Meat_price": {
+        "Steak": 60,
+        "Beef Salami": 20,
+        "Sausages": 30,
+        "Chicken Breast": 20,
+        "Goat Meat": 20,
+        "Rabbit meat": 30,
+        "Lamb chops": 30,
+        "Turkey Braests": 60,
+        "Shrimp": 120
+    }
+}
